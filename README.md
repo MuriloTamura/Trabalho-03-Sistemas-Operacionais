@@ -110,5 +110,5 @@ como em um sistema de arquivos Unix real.
 > Preencher com os nomes dos integrantes do grupo antes do envio.
 
 - Murilo Tamura Nobre
-- josué Rodrigues Avelino
+- Josué Rodrigues Avelino
 - Luiz Henrique Leite Porto Maia
