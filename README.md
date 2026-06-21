@@ -109,7 +109,6 @@ como em um sistema de arquivos Unix real.
 
 > Preencher com os nomes dos integrantes do grupo antes do envio.
 
-- Nome 1
-- Nome 2
-- Nome 3
-- Nome 4
+- Murilo Tamura Nobre
+- josué Rodrigues Avelino
+- Luiz Henrique Leite Porto Maia
